@@ -1,15 +1,19 @@
 DEAD SPACE
 
-Descrição
+  Descrição
 
-Este é um projecto de Computação Gráfica do ISPTEC
+    Este é um projecto de Computação Gráfica do ISPTEC
 
-Modelação geométrica
+    Que teve como objectivo aplicar e compreender:
 
-Conceitos de cameras virtuais
+      - Modelação geométrica
 
-Técnicas básicas de animação e deteção de colisões
+      - Conceitos de cameras virtuais
 
-Iluminação e shading
+      - Técnicas básicas de animação e deteção de colisões
 
-Texturas
+      - Iluminação e shading
+
+      - Texturas
+
+
