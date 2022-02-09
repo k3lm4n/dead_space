@@ -1,10 +1,11 @@
-Este é a terceira entrega com as modificações pedidas pelo professor, mencionar que na entrega passada
-nao tivemos um bom aproveitamento quanto a camera rodando a cena (360) e o disparo selecionado...
-Mas nesse trabalho foi superado essas partes e foram adcionadas as luzes...
+DEAD SPACE
 
-O Grupo 7 agradece...
-Atencionsamente,
+Descrição
 
-Roberto Lemos
-Kelman Dias 
-Clementina Sorte
+Este é um projecto de Computação Gráfica do ISPTEC
+
+Modelação geométrica.
+Conceitos de cameras virtuais.
+Técnicas básicas de animação e deteção de colisões.
+Iluminação e shading
+Texturas
